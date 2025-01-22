@@ -28,7 +28,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)
 
 ## 📈 GitHub:
-![Ваш GitHub статус](https://github-readme-stats.vercel.app/api?username=ВашUsername&show_icons=true&theme=radical)
-![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=ВашUsername&layout=compact&theme=radical)
+![Ваш GitHub статус](https://github-readme-stats.vercel.app/api?username=PrysiazhnaIra&show_icons=true&theme=radical)
+![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=ВашUsername&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=PrysiazhnaIra&color=blue)
