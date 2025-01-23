@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!+👋;Frontend+Developer+💻" alt="Typing SVG" />
+</p>
+
 
 ## 🛠️ My Technologies:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,3 +35,4 @@
 ![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrysiazhnaIra&color=blue)
+
