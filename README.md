@@ -2,6 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!+👋;Frontend+Developer+💻" alt="Typing SVG" />
 </p>
 
+<h2 align="center">📞 Connect with me:</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/ira-prysiazhna" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/IraPrysiazhna" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 ## 🛠️ My Technologies:
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
