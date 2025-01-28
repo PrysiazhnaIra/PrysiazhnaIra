@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!+👋;Frontend+Developer+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=966FD6&center=true&vCenter=true&width=635&lines=Welcome+to+my+profile!+👋;Frontend+Developer+💻" alt="Typing SVG" />
 </p>
 
 <h2 align="center">📞 Connect with me:</h2>
@@ -42,6 +42,7 @@
 ## 📈 GitHub:
 ![Ваш GitHub статус](https://github-readme-stats.vercel.app/api?username=PrysiazhnaIra&show_icons=true&theme=radical)
 ![Мови](https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=radical)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrysiazhnaIra&color=blue)
 
