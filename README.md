@@ -28,8 +28,8 @@
 <h2 align="center">📈 Stats & Activity:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrysiazhnaIra&show_icons=true&theme=gruvbox&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=gruvbox&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrysiazhnaIra&show_icons=true&theme=gruvbox&count_private=true&token=GH_TOKEN_REPO" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=gruvbox&count_private=true&token=GH_TOKEN_REPO" alt="Top Languages" />
 </div>
 
 <p align="center">
@@ -51,15 +51,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </div>
-
-
-
-
-## 📈 GitHub:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrysiazhnaIra&show_icons=true&theme=radical&count_private=true&token=GH_TOKEN_REPO)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=radical&count_private=true&token=GH_TOKEN_REPO)
 
 
 
