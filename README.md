@@ -25,17 +25,6 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
 </div>
 
-<h2 align="center">📈 Stats & Activity:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrysiazhnaIra&show_icons=true&theme=gruvbox&count_private=true&token=GH_TOKEN_REPO" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrysiazhnaIra&layout=compact&theme=gruvbox&count_private=true&token=GH_TOKEN_REPO" alt="Top Languages" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PrysiazhnaIra&color=blue&style=flat" alt="Profile Views" />
-</p>
-
 <h2 align="center">🛠️ Tools & Platforms:</h2>
 
 <div align="center">
